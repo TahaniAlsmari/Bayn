@@ -1,7 +1,7 @@
 # Bayn — Smart Tourism Landmarks System
 
 
-##About
+## About
 
 Bayn is an interactive web system that provides smart information about Saudi landmarks.  
 The project consists of:
@@ -10,14 +10,14 @@ The project consists of:
 * **Back-End:** Python (FastAPI / Flask) for data services and application logic  
 * **Model:** AI/ML model to analyze data and provide intelligent recommendations to users
 
-### Focus
+### Features
 * User-friendly interface  
 * Fast and accurate landmark information  
 * Integration of AI for enhanced recommendations
 
 ---
 
-##Project Structure
+## Project Structure
 
 Bayn/
 ├─ frontend/ ← Frontend files
@@ -30,7 +30,7 @@ Bayn/
 
 ---
 
-##Technologies
+## Technologies
 
 * **Frontend:** HTML5, CSS3, JavaScript  
 * **Backend:** Python, FastAPI / Flask  
@@ -39,7 +39,7 @@ Bayn/
 
 ---
 
-##Dataset
+## Dataset
 
 The model was trained using a collection of Saudi landmark images and details.  
 
